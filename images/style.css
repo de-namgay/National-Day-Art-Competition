@@ -1,0 +1,14 @@
+.box {
+    width: 1255px; 
+    height: 615px;
+    background-image: url(bhutan_flag.jpg);
+    background-size: 1255px 615px;
+}   
+
+.content img {
+    margin: -1.7px;
+    opacity: 60%;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+}
